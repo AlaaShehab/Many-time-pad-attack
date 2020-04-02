@@ -11,6 +11,7 @@ class Main
         for (int i = 0; i < str.length(); i++) {
             alphabet_set.add((int) str.charAt(i));
         }
+		//ciphertext
         String[] msgs = {
                 "588B12E8140D66511035513D07656FF4A29135FA7814A41C367BFCBC88",
                 "588B16E9190D2A1615265C3C033179B1A88A67F93D10EB172D62E9A69E",
